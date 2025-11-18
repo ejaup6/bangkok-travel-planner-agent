@@ -1,0 +1,39 @@
+{
+  "users": {},
+  "sessions": [
+    {
+      "user_id": "demo_user",
+      "timestamp": "2025-11-20T10:23:11Z",
+      "query": "3 days Bangkok, cafes, night markets, shopping",
+      "planner_output": {
+        "trip_duration": "3 Days",
+        "daily_plan": {
+          "Day 1": [
+            "Morning: ICONSIAM",
+            "Lunch: Thipsamai Pad Thai",
+            "Evening: Explore local markets"
+          ],
+          "Day 2": [
+            "Morning: Wat Arun visit",
+            "Lunch: Somtum Der",
+            "Evening: Jodd Fairs Night Market"
+          ],
+          "Day 3": [
+            "Morning: Chatuchak Market",
+            "Return flight"
+          ]
+        },
+        "transport_summary": {
+          "modes": [
+            "BTS",
+            "MRT",
+            "Grab"
+          ],
+        "typical_time_between_spots_min": 25,
+        "typical_cost_per_day_THB": 350
+        },
+        "estimated_budget": "12000 THB"
+      }
+    }
+  ]
+}
