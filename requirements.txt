@@ -1,0 +1,5 @@
+# Example requirements; no API keys required for demo mode
+# Add packages only if you change notebook to call real APIs
+# google-generativeai
+# fastapi
+# uvicorn
